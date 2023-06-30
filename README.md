@@ -1,4 +1,4 @@
-### Hi there 👋
+### The main github page
 
 <!--
 **1N73RC3P70R/1N73RC3P70R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
