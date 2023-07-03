@@ -3,7 +3,7 @@
 Here are some of my works, **but not all**.
 Should you desire to see any additional masterpieces of mine, feel free to write.
 
-~~Soon,~~ additional information will follow
+~~Soon,~~ additional information will follow!
 
 
 <!--
