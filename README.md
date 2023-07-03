@@ -1,5 +1,7 @@
 ### The main github page
 
+Here are some of my works, **but not all**.
+Should you desire to see any additional masterpieces of mine, feel free to write.
 <!--
 **1N73RC3P70R/1N73RC3P70R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
