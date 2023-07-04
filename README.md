@@ -8,10 +8,11 @@
 </div>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=1n73rc3p70r" alt="1n73rc3p70r" />
+    <img src="https://github-profile-trophy.vercel.app/?username=1n73rc3p70r" alt="1n73rc3p70r" /> .
+
   </a>
 
-
+  
 - 🔭 I’m currently working on **ClockIn**
 
 - 📫 How to reach me **kras.konstantinov@yandex.ru**
@@ -26,8 +27,15 @@
 </p>
 <details>
   <summary><h4> What is all this even?<h4></summary>
-    I know that at this time, there is not a lot to show here, but it shows that I am driven towards the goal of having a successful career in IT. I am willing to learn new things and I am always willing to generate ideas on how to achive more with less. Below are the tools I know, but I have decided not to include tools which I know just a bit of to get around, but not enough to actually build something. 
+    I know that at this time, there is not a lot to show here, but it shows that I am driven towards the goal of having a successful career in IT. I am willing to learn new things and I am always willing to generate ideas on how to achive more with less. Below are the tools I know, but I have decided not to include tools which I know just a bit of to get around, but not enough to actually build something.
+    Also, here's a counter of how many views my Github page has:
+    
+[![](https://visitcount.itsvg.in/api?id=1N73RC3P70R&icon=5&color=0)](https://visitcount.itsvg.in)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 </details>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
@@ -36,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1n73rc3p70r&show_icons=true&locale=en" alt="1n73rc3p70r" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1n73rc3p70r&" alt="1n73rc3p70r" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></br></p>
