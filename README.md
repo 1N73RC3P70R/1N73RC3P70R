@@ -1,6 +1,6 @@
 <h1 align="center">Good day, call me K.K.</h1>
 
-<h3 align="center">Bulgarian, living in Russia, looking for a job.</h3>
+<h3 align="center">Bulgarian, living in Russia.</h3>
 <div style="width: 200px; margin: 0 auto;">
 
 
