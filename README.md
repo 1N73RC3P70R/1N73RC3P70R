@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kras.konstantinov@yandex.ru**
 
-- ⚡ Fun fact **I don't always answer messages.**
+- ⚡ Fun fact **I use github as a resume**
 
 <h3 align="left">Connect with me:</h3> kras.konstantinov@yandex.ru
 <p align="left">
