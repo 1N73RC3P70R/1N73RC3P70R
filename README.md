@@ -28,7 +28,7 @@
 <details>
   <summary><h4> What is all this even?<h4></summary>
     I know that at this time, there is not a lot to show here, but it shows that I am driven towards the goal of having a successful career in IT. I am willing to learn new things and I am always willing to generate ideas on how to achive more with less. Below are the tools I know, but I have decided not to include tools which I know just a bit of to get around, but not enough to actually build something.
-    Also, here's a counter of how many views my Github page has:
+    Also, here's a counter of how many views my Github page has, and a random quote:
     
 [![](https://visitcount.itsvg.in/api?id=1N73RC3P70R&icon=5&color=0)](https://visitcount.itsvg.in)
 
@@ -44,4 +44,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1n73rc3p70r&show_icons=true&locale=en" alt="1n73rc3p70r" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></br></p>
+<h3> 🌟 Additional stats: </h3>
+<br>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></p>
