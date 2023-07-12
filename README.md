@@ -13,20 +13,20 @@
   </a>
 
   
-- 🔭 I’m currently working on **ClockIn**
+- 🔭 I’m currently working on - **ClockIn**
 
-- 📫 How to reach me **kras.konstantinov@yandex.ru**
+- 📫 Write to me - **kras.konstantinov@yandex.ru**
 
-- ⚡ Fun fact **I use github as a resume**
+- ⚡ Fun fact - **I use github as a CV**
 
-<h3 align="left">Connect with me:</h3> kras.konstantinov@yandex.ru
-<p align="left">
-</p>
-<h5 align="left">In case you are writing to inquire about my code:</h5>
-  <img src="https://fictiontalk.com/wp-content/uploads/2021/08/5-gaming-companies-in-need-of-a-redemption-story.jpg" width="300" height="200" style="margin-left: 20px;"/>
+<h5 align="left"> P.S. In case you are writing to inquire about my code:</h5>
+ <p align="center">
+  <img src="https://fictiontalk.com/wp-content/uploads/2021/08/5-gaming-companies-in-need-of-a-redemption-story.jpg" width="300" height="200" style="margin-right: 10px;"/>
+  <img src="https://shorturl.at/irAFR" width="300" height="200" style="margin-left: 0px;"/>
+   
 </p>
 <details>
-  <summary><h4> What is all this even?<h4></summary>
+  <summary><h4> Why does this page exist?<h4></summary>
     I know that at this time, there is not a lot to show here, but it shows that I am driven towards the goal of having a successful career in IT. I am willing to learn new things and I am always willing to generate ideas on how to achive more with less. Below are the tools I know, but I have decided not to include tools which I know just a bit of to get around, but not enough to actually build something.
     Also, here's a counter of how many views my Github page has, and a random quote:
     
@@ -47,3 +47,9 @@
 <h3> 🌟 Additional stats: </h3>
 <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></p>
+
+<h3>🐍 Finally, look at my contributions, before my pet snake eats them:</h3>
+
+![The Snake](https://github.com/1N73RC3P70R/1N73RC3P70R/blob/output/github-contribution-grid-snake.svg)
+
+
