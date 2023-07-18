@@ -50,7 +50,4 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></p>
 
 <h3>🐍 Finally, take a look at my contributions history, before my pet sea snake eats it:</h3>
-
-<div>     
-    <img src="https://raw.githubusercontent.com/1N73RC3P70R/1N73RC3P70R/output/ocean.svg" alt="GitHub Snake" width="100%"/>
-  </div>
+    <img src="https://raw.githubusercontent.com/1N73RC3P70R/1N73RC3P70R/output/ocean.svg" alt="Snake" width="100%"/>
