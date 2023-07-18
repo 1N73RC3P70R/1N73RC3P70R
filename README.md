@@ -49,7 +49,7 @@
 <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></p>
 
-<h3>🐍 Finally, take a look at my contributions history, before my pet snake eats it:</h3>
+<h3>🐍 Finally, take a look at my contributions history, before my pet snake eats it (waiting for author to upgrade from node12 to node16):</h3>
 
 ![The Snake](https://github.com/1N73RC3P70R/1N73RC3P70R/blob/output/github-contribution-grid-snake.svg)
 
