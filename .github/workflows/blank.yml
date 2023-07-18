@@ -3,11 +3,16 @@ on:
   schedule:
     - cron: "0 */24 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
       - uses: Platane/snk@master
         id: snake-gif
         with:
