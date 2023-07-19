@@ -1,11 +1,11 @@
 <h1 align="center">Good day, call me K.K.</h1>
 
-<h3 align="center">Bulgarian, living in Russia.</h3>
-<div style="width: 200px; margin: 0 auto;">
+<h3 align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=216110&width=435&lines=A+Bulgarian+living+in+Russia;A+man+for+all+seasons)](https://git.io/typing-svg)
 
+</h3>
 
-                                                     A man for all seasons
-</div>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=1n73rc3p70r" alt="1n73rc3p70r" /> .
