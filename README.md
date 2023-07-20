@@ -1,10 +1,11 @@
-<h1 align="center">Good day, call me K.K.</h1>
+<div align ="center">
+  <h1>Good day, call me K.K.</h1>
 
-<h3 align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=216110&width=435&lines=A+Bulgarian+living+in+Russia;A+man+for+all+seasons)](https://git.io/typing-svg)
+<h3>
 
+  [![Text](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+Bulgarian+living+in+Russia;A+man+for+all+seasons)](https://git.io/typing-svg)
 </h3>
+</div>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
