@@ -3,7 +3,7 @@
 
 <h3>
 
-  [![Text](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=A+Bulgarian+living+in+Russia;A+man+for+all+seasons)](https://git.io/typing-svg)
+  [![Text](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1038FFEA&center=true&width=435&lines=A+Bulgarian+living+in+Russia;A+man+for+all+seasons)](https://git.io/typing-svg)
 </h3>
 </div>
 
