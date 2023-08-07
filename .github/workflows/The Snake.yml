@@ -1,4 +1,4 @@
-  name: Fetch the snake
+name: Fetch the snake
 on:
   schedule:
     - cron: "0 */24 * * *" 
