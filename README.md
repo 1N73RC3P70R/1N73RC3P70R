@@ -46,7 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=1n73rc3p70r&show_icons=true&locale=en" alt="1n73rc3p70r" /></p>
 
 
-<h3> 🌟 Additional stats: </h3>
+<h3> 🌟 Additional stats (currently, the `github-readme-streak-stats` server is experiencing some trouble): </h3>
 <br>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=1N73RC3P70R&theme=prussian&hide_border=false"></p>
 
