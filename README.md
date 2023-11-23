@@ -19,6 +19,8 @@
 
 - ⚡ Fun fact - **I use github as a CV**
 
+- :heavy_check_mark: You can also check out the problems I've solved (so far) - [**CodingBat**](https://codingbat.com/done?user=kras.konstantinov@yandex.ru&tag=4483525691)
+
 <h5 align="left"> P.S. In case you are writing to inquire about my code:</h5>
  <p align="center">
   <img src="https://fictiontalk.com/wp-content/uploads/2021/08/5-gaming-companies-in-need-of-a-redemption-story.jpg" width="300" height="200" style="margin-right: 10px;"/>
